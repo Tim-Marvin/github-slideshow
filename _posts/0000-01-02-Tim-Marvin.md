@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ernährung, Gesundheit und Sport 
 Use the left arrow to go back!
